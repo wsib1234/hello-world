@@ -1,5 +1,5 @@
 # hello-world
-this is my first repository
+this is my first repoo
 
 This changes is done in readme-edits branch
 I like automation testing using various automation tools
